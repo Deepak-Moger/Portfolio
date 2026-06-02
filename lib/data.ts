@@ -27,7 +27,7 @@ export const personal = {
   ],
   tagline:
     "Building end-to-end machine learning systems and scalable AI solutions for real-world problems.",
-  about: `I'm a BCA undergraduate at A.M.C. Engineering College, Bangalore, with strong foundations in Machine Learning, AI, and Cloud Computing. I love designing end-to-end ML applications — from OCR-based data extraction pipelines to drift-detection systems on the cloud. I'm passionate about applying AI to real-world problems and continuously exploring the edges of cloud security and data science.`,
+  about: `I'm a BE undergraduate at A.M.C. Engineering College, Bangalore, with strong foundations in Machine Learning, AI, and Cloud Computing. I love designing end-to-end ML applications — from OCR-based data extraction pipelines to drift-detection systems on the cloud. I'm passionate about applying AI to real-world problems and continuously exploring the edges of cloud security and data science.`,
   location: "Bangalore, India",
   email: "deepakmoger028@gmail.com",
   phone: "+91 94988 38381",
@@ -55,8 +55,8 @@ export const education: {
 }[] = [
   {
     school: "A.M.C. Engineering College, Bangalore",
-    degree: "Bachelor of Computer Applications (BCA)",
-    period: "Aug 2022 — Present",
+    degree: "Bachelor of Engineering (BE)",
+    period: "Aug 2022 — Jun 2026",
     detail: "Focus on AI/ML, Cloud Computing, and Database Systems.",
   },
   {
