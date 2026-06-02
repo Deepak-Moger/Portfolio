@@ -24,7 +24,7 @@ const channels = [
   },
   {
     label: "LinkedIn",
-    value: "linkedin.com/in/deepak-moger",
+    value: "linkedin.com/in/deepak-narayan-moger",
     href: personal.links.linkedin,
     icon: Linkedin,
   },

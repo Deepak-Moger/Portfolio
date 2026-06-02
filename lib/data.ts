@@ -30,11 +30,11 @@ export const personal = {
   about: `I'm a BE undergraduate at A.M.C. Engineering College, Bangalore, with strong foundations in Machine Learning, AI, and Cloud Computing. I love designing end-to-end ML applications — from OCR-based data extraction pipelines to drift-detection systems on the cloud. I'm passionate about applying AI to real-world problems and continuously exploring the edges of cloud security and data science.`,
   location: "Bangalore, India",
   email: "deepakmoger028@gmail.com",
-  phone: "+91 94988 38381",
+  phone: "+91 8317381478",
   resumeUrl: "/Deepak-Narayan-Moger-Resume.pdf",
   links: {
     github: "https://github.com/Deepak-Moger",
-    linkedin: "https://www.linkedin.com/in/deepak-moger",
+    linkedin: "https://www.linkedin.com/in/deepak-narayan-moger",
     medium: "https://medium.com/@mogerdeepu112",
     email: "mailto:deepakmoger028@gmail.com",
   },

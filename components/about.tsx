@@ -34,12 +34,12 @@ export function About() {
           >
             <div className="relative aspect-[4/5] overflow-hidden rounded-2xl border border-border/80 bg-card">
               <Image
-                src="/profile.jpg"
+                src="/profile.jpeg"
                 alt={`Portrait of ${personal.name}`}
                 fill
                 priority
                 sizes="(min-width: 768px) 40vw, 100vw"
-                className="object-cover"
+                className="object-cover object-center"
               />
               {/* Frame label */}
               <div className="absolute left-4 top-4 inline-flex items-center gap-2 rounded-full border border-foreground/20 bg-background/40 px-3 py-1 font-mono text-[10px] uppercase tracking-widest text-foreground/80 backdrop-blur">
